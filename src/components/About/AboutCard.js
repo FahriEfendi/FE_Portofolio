@@ -10,8 +10,11 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Fahri Rahmad Efendi </span>
             from <span className="purple"> Batam, Indonesia.</span>
-            <br />I am a Junior Web Developer and Computing in Politeknik
-            Batam.
+            <br /> I am a final year student Information Engineering
+            in Batam State<br /> Polytechnic.
+            <br />
+            Additionally, I am currently employed as a software developer at
+            Juspay.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
@@ -21,7 +24,7 @@ function AboutCard() {
               <ImPointRight /> Playing Games
             </li>
             <li className="about-activity">
-              <ImPointRight /> Watch Anime / Movie
+              <ImPointRight /> Writing Tech Blogs
             </li>
             <li className="about-activity">
               <ImPointRight /> Travelling
